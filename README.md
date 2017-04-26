@@ -1,9 +1,8 @@
 # profile
 This is profile of Rui Fukumoto. 福本 塁のプロフィールです。ご自由にお使いください。
-<h1>Rui Fukumoto 福本 塁 ふくもと るい のプロフィールご利用にあたって</h1>
-This repoository contains information for the prople who wants to get Hal Seki's profile. Please feel free to use any introductionss for your event/forum/seminors which Hal will be presented. You can see English profile on the bottom of this page.
-
-このリポジトリには、福本 塁のプロフィールを利用する為の情報があります。福本の紹介や講演情報、WEBページの掲載等にご自由に（ただし改変はせず）お使い頂ければと思います。
+<h1>プロフィールご利用にあたって</h1>
+This repoository contains information related to the profile of Rui Fukumoto. You can use it for posting to pages which purpose are introducing, presentation and events without modification. If you would like to modify the profile, please ask me bia issues.
+このリポジトリには、福本 塁のプロフィールに関する情報があります。福本の紹介や講演情報、WEBページの掲載等にご自由に（ただし改変はせず）お使い頂ければと思います。
 
 <h1>所属・肩書等</h1>
 <ul>
