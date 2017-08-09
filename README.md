@@ -15,6 +15,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 <li>防災トランプ開発者
 </ul>
 ※上記から掲載先に合った内容をお選び頂ければ幸いです。
+</br>
 <ul>
 <li>国際ロータリー第2780地区 地区ローターアクト代表(2010～2011年度)
 <li>JRACIC(現ローアーアクトジャパン)初代議長  
