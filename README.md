@@ -85,5 +85,5 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </ol>
 <h1>関連WEBサイト WEB Sites</h1>
 <ol>
-<li><a href="http://rui.jp.net" target="_blank">「日常の冒険家」福本塁オフィシャルサイト</a>
+<li><a href="http://rui.jp.net" target="blank">「日常の冒険家」福本塁オフィシャルサイト</a>
 </ol>
