@@ -118,4 +118,5 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 <ol>
 <li><a href="http://rui.jp.net" target=”_blank”>「日常の冒険家」福本塁オフィシャルサイト</a>
 <li><a href="http://fkmt-lab.jp" target=”_blank”>福本研究室</a>
+<li><a href="https://researchmap.jp/ruifukumoto" target=”_blank”>Researchmap</a>
 </ol>
