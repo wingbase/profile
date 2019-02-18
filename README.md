@@ -57,7 +57,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 ※上記から掲載先に合った内容をお選び頂ければ幸いです。
 <h1>学位 Academic degrees</h1>
 <ol>
-<!--<li>地域の自律的な復旧に寄与する企業の特徴に関する研究（博士（工学），2018年取得予定，東京大学）-->
+<li>地域の自律的な復旧に寄与する企業の特徴に関する研究（博士（工学），2018年12月，東京大学）
 <li>扇状地河川における水質形成機構の解明（修士（環境学），2007年3月，東京大学）
 </ol>
 <h1>主要論文 Academic Articles</h1>
@@ -74,6 +74,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 <ol>
 <li>長岡造形大学造形学部建築・環境デザイン学科 コミュニティデザイン（学部3年後期）
 <li>長岡造形大学造形学部 空間安全論（学部2年前期）
+<li>長岡造形大学造形学部 社会起業（学部2年前期）
 <li>長岡造形大学造形学部建築・環境デザイン学科 基礎数学
 <li>長岡造形大学造形学部建築・環境デザイン学科 建築・環境デザイン演習Ⅱ
 <li>長岡造形大学造形学部建築・環境デザイン学科 建築・環境CG実習Ⅰ・Ⅱ
@@ -116,7 +117,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </ol>
 <h1>関連WEBサイト WEB Sites</h1>
 <ol>
-<li><a href="http://rui.jp.net" target=”_blank”>「日常の冒険家」福本塁オフィシャルサイト</a>
-<li><a href="http://fkmt-lab.jp" target=”_blank”>福本研究室</a>
+<li><a href="https://rui.jp.net" target=”_blank”>「日常の冒険家」福本塁オフィシャルサイト</a>
+<li><a href="https://fkmt-lab.jp" target=”_blank”>福本研究室</a>
 <li><a href="https://researchmap.jp/ruifukumoto" target=”_blank”>Researchmap</a>
 </ol>
