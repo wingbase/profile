@@ -32,6 +32,11 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </br>
 <h1>受賞歴 Awards</h1>
 <ol>
+<li>2020年11月	『2020年度 ICT利用による教育改善研究発表会 奨励賞』 (公益社団法人 私立大学情報教育協会)
+<li>2020年05月	『2019年度 日本都市計画学会賞 論文奨励賞』 (日本都市計画学会)
+<li>2020年04月	『令和2年度 科学技術分野の文部科学大臣表彰 科学技術賞（理解増進部門）』 (文部科学省)
+<li>2020年03月	『令和元年度 長岡造形大学優秀教員顕彰』 (公立大学法人 長岡造形大学)
+<li>2019年05月	『第1回インテリジェント・コスモス東北文化奨励賞』 (公益財団法人 インテリジェント・コスモス学術振興財団)
 <li>2017年12月	『CSIS Days 2017 「全国共同利用研究発表大会」 優秀研究発表賞』（東京大学空間情報科学研究センター）  
 <li>2017年03月	『東京大学総長賞・総長大賞』（東京大学）
 <li>2016年10月	『第10回かながわ子ども・子育て支援大賞 奨励賞』（神奈川県）
@@ -66,7 +71,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 <li>対話による地域防災訓練の試行-横浜市港南区・戸塚区における防災トランプの活用事例を通じて-. 福本 塁. 自治体危機管理研究, 21(1), 69-88, 2018年3月. [査読有り]
 <li>防災を主題にした対話を通じた学習者の主体性の変化と学びの深まり－防災トランプを活用した事例を通じて－. 福本 塁, 中村 和彦, 山口 紀生. 環境教育,    27(3), 15-22, 2018年3月. [査読有り]
 </ol>
-<!--<li>地域の自律的な復旧に寄与する企業の特徴に関する研究（博士（工学），2018年取得予定，東京大学）-->
+<li>地域の自律的な復旧に寄与する企業の特徴に関する研究（博士（工学），2018年12月，東京大学）
 <li>扇状地河川における水質形成機構の解明（修士（環境学），2007年3月，東京大学）
 </ol>
 <h1>教歴 Educational Experiences</h1>
@@ -75,6 +80,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 <li>長岡造形大学造形学部建築・環境デザイン学科 コミュニティデザイン（学部3年後期）
 <li>長岡造形大学造形学部 空間安全論（学部2年前期）
 <li>長岡造形大学造形学部 社会起業（学部2年前期）
+<li>長岡造形大学造形学部 統計学（学部1年後期）
 <li>長岡造形大学造形学部建築・環境デザイン学科 基礎数学
 <li>長岡造形大学造形学部建築・環境デザイン学科 建築・環境デザイン演習Ⅱ
 <li>長岡造形大学造形学部建築・環境デザイン学科 建築・環境CG実習Ⅰ・Ⅱ
@@ -98,6 +104,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </ol>
 <h4>非常勤講師としての担当講義</h4>
 <ol>
+<li>新潟工科大学 都市環境エネルギーコース実験Ⅰ 2020年度 前期（90分×1コマ×2回）
 <li>青山学院大学地球社会共生学部 Japanese GeographyⅣ (English) 2017年度 前期（90分×1コマ×15回）
 <li>青山学院大学地球社会共生学部 Japanese GeographyⅣ (English) 2016年度 前期（90分×1コマ×15回）
 <li>国土交通大学校 GIS基礎〔初めてのGIS〕研修 自然環境分野におけるGISの活用 2017年06月（90分×1コマ）（分担）
@@ -117,7 +124,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </ol>
 <h1>関連WEBサイト WEB Sites</h1>
 <ol>
-<li><a href="https://rui.jp.net" target=”_blank”>「日常の冒険家」福本塁オフィシャルサイト</a>
 <li><a href="https://fkmt-lab.jp" target=”_blank”>福本研究室</a>
+<li><a href="https://rui.jp.net" target=”_blank”>「日常の冒険家」福本塁オフィシャルサイト</a>
 <li><a href="https://researchmap.jp/ruifukumoto" target=”_blank”>Researchmap</a>
 </ol>
