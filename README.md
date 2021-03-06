@@ -6,6 +6,17 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </br>
 <h1>所属・肩書等 Affiliations</h1>
 <ul>
+<li>Assistant Professor, at Department of Architecture and Environmental Design, Nagaoka Institute of Design, Japan (since 2018)
+<li>President, Wing Base Inc., Japan (since 2011)
+<li>Representative, Kanagawa Youth think tank, Japan (since 2011)
+<li>Educational SuperVisor, LCA Kokusai elementary school, Japan (since 2015)
+<li>Inventor of Bousai Trump (since 2012)
+<li>Rotary International District 2780 District Rotaract Representative (from 2010 to 2011)
+<li>Japanese Rotaractor Cross Information Center (*Rotaract JAPAN) Founder  
+</ul>
+*Please select the affiliations that best suits your objective from the list above.</br>
+</br></br>
+<ul>
 <li>長岡造形大学造形学部建築・環境デザイン学科 助教
 <li>株式会社ウイングベース 代表取締役
 <li>神奈川わかものシンクタンク 代表理事
@@ -13,15 +24,15 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 <li>LCA国際小学校 IT・論理教育特別顧問
 <li>防災トランプ開発者
 </ul>
-※上記から掲載先に合った内容をお選び頂ければ幸いです。
+※上記から掲載先に合った内容をお選び頂ければ幸いです。</br>
 </br></br>
 <ul>
 <li>国際ロータリー第2780地区 地区ローターアクト代表(2010～2011年度)
 <li>JRACIC(現ローアーアクトジャパン)初代議長  
 </ul>
-※上記はロータリークラブ（ローターアクトクラブ）関連の経歴となります。
-</br>
-<h1>取り組みについて Activities</h1>
+※上記はロータリークラブ（ローターアクトクラブ）関連の経歴となります。</br>
+</br></br>
+<h1>防災の取り組みについて Activities</h1>
 日常の会話になかなか出てこない「身近な危険」や「災害」について個人の体験談や考えを共有する場がつくれる「防災トランプ」を開発。
 日常を舞台にした具体的な体験談をもとに「防災」について世代をこえて楽しく話し合う場を形成する活動を行っている。
 特に、体験（事実や出来事）を経験（独自に解釈し意味をつけ、価値観を変容）に変えることで社会をよりよくする行動を促していくことをモットーとしている。
