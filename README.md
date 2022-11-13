@@ -6,6 +6,9 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </br>
 <h1>所属・肩書等 Affiliations</h1>
 <ul>
+<li>Associate Professor, at Department of Architecture and Environmental Design, Nagaoka Institute of Design, Japan (since 2022)
+<li>Owner, traditional small Japanese treats shop "HUB", Japan (since 2022)
+<li>CEO, HUB.LLC, Japan (since 2022)
 <li>Assistant Professor, at Department of Architecture and Environmental Design, Nagaoka Institute of Design, Japan (since 2018)
 <li>President, Wing Base Inc., Japan (since 2011)
 <li>Representative, Kanagawa Youth think tank, Japan (since 2011)
@@ -17,6 +20,9 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 *Please select the affiliations that best suits your objective from the list above.</br>
 </br></br>
 <ul>
+<li>長岡造形大学造形学部建築・環境デザイン学科 准教授
+<li>駄菓子屋ハブ店長
+<li>合同会社ハブ CEO
 <li>長岡造形大学造形学部建築・環境デザイン学科 助教
 <li>株式会社ウイングベース 代表取締役
 <li>神奈川わかものシンクタンク 代表理事
@@ -43,6 +49,8 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </br>
 <h1>受賞歴 Awards</h1>
 <ol>
+<li>2022年10月	『2022年度 グッドデザイン賞』 (公益財団法人日本デザイン振興会)
+<li>2022年03月	『令和3年度 長岡造形大学優秀教員顕彰』 (公立大学法人 長岡造形大学)
 <li>2021年03月	『令和2年度 長岡造形大学優秀教員顕彰』 (公立大学法人 長岡造形大学)
 <li>2020年11月	『2020年度 ICT利用による教育改善研究発表会 奨励賞』 (公益社団法人 私立大学情報教育協会)
 <li>2020年05月	『2019年度 日本都市計画学会賞 論文奨励賞』 (日本都市計画学会)
@@ -116,6 +124,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </ol>
 <h4>非常勤講師としての担当講義</h4>
 <ol>
+<li>長岡崇徳大学 統計分析法 2022年度 前期（90分×15コマ）
 <li>新潟工科大学 都市環境エネルギーコース実験Ⅰ 2020年度 前期（90分×1コマ×2回）
 <li>青山学院大学地球社会共生学部 Japanese GeographyⅣ (English) 2017年度 前期（90分×1コマ×15回）
 <li>青山学院大学地球社会共生学部 Japanese GeographyⅣ (English) 2016年度 前期（90分×1コマ×15回）
