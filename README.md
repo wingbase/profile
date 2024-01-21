@@ -6,6 +6,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </br>
 <h1>所属・肩書等 Affiliations</h1>
 <ul>
+<li>Research and Development Leader, at Tokyo University of the Arts, Japan (since 2023)
 <li>Associate Professor, at Department of Architecture and Environmental Design, Nagaoka Institute of Design, Japan (since 2022)
 <li>Owner, traditional small Japanese treats shop "HUB", Japan (since 2022)
 <li>CEO, HUB.LLC, Japan (since 2022)
@@ -21,6 +22,7 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </br></br>
 <ul>
 <li>長岡造形大学造形学部建築・環境デザイン学科 准教授
+<li>東京藝術大学 「共生社会」をつくるアートコミュニケーション共創拠点 研究開発課題リーダー
 <li>駄菓子屋ハブ店長
 <li>合同会社ハブ CEO
 <li>長岡造形大学造形学部建築・環境デザイン学科 助教
@@ -38,17 +40,22 @@ This repoository contains information related to the profile of Rui Fukumoto. Yo
 </ul>
 ※上記はロータリークラブ（ローターアクトクラブ）関連の経歴となります。</br>
 </br></br>
+<h1>専門分野について Speciality</h1>
+能動性を有する「人と人のつながり」が生まれるレジリエントなコミュニティをデザインする。
+世の中には様々な問題があり、それぞれの問題には当事者である個人や地域の人々がいます。こうした人々が、自ら能動的な主体性と持続性を持って取り組む動機づけとつながりが生まれる場づくりや仕組みづくりのデザインに取り組んでいます。
+コミュニティデザイン、都市計画、まちづくり、都市防災、空き空間の再生、アートコミュニケーション、教材開発、防災教育
+あたりのキーワードを主として研究、教育、社会貢献に取り組んでいます。
+</br>
 <h1>防災の取り組みについて Activities</h1>
 日常の会話になかなか出てこない「身近な危険」や「災害」について個人の体験談や考えを共有する場がつくれる「防災トランプ」を開発。
 日常を舞台にした具体的な体験談をもとに「防災」について世代をこえて楽しく話し合う場を形成する活動を行っている。
 特に、体験（事実や出来事）を経験（独自に解釈し意味をつけ、価値観を変容）に変えることで社会をよりよくする行動を促していくことをモットーとしている。
 </br>
-<h1>専門分野について Speciality</h1>
-防災まちづくり、コミュニティデザイン、教材開発、防災教育、企業防災、都市計画
-あたりのキーワードを主として研究、教育、社会貢献に取り組んでいます。
-</br>
 <h1>受賞歴 Awards</h1>
 <ol>
+<li>2023年03月	『感謝状：教育支援』(横浜市立勝田小学校)
+<li>2023年03月	『令和4年度 長岡造形大学優秀教員顕彰』 (公立大学法人 長岡造形大学)
+<li>2023年02月	『第18回NKS地域活性化大賞 優秀賞』(新潟県異業種交流センター)
 <li>2022年10月	『2022年度 グッドデザイン賞』 (公益財団法人日本デザイン振興会)
 <li>2022年03月	『令和3年度 長岡造形大学優秀教員顕彰』 (公立大学法人 長岡造形大学)
 <li>2021年03月	『令和2年度 長岡造形大学優秀教員顕彰』 (公立大学法人 長岡造形大学)
